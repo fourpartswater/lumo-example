@@ -4,7 +4,7 @@
   "private": true,
   "author": "Kevin Birk <birk.kevin@gmail.com>",
   "dependencies": {
-    "lumo": "unchartedsoftware/lumo#gulp4-update",
+    "lumo": "^0.20.15",
     "stats.js": "^0.17.0"
   },
   "devDependencies": {
