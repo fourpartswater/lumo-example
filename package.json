@@ -1,0 +1,24 @@
+{
+  "name": "lumo-example",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Kevin Birk <birk.kevin@gmail.com>",
+  "dependencies": {
+    "lumo": "unchartedsoftware/lumo#gulp4-update",
+    "stats.js": "^0.17.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.2",
+    "babelify": "^10.0.0",
+    "browserify": "^16.2.3",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-eslint": "^5.0.0",
+    "gulp-go": "^1.1.0",
+    "gulp-uglify": "^3.0.1",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
