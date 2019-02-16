@@ -1,6 +1,8 @@
 # Lumo Example
 
-<img width="600" src="/screenshot.png" alt="mandlebrot-screenshot" />
+<p align="center">
+	<img width="600" src="/screenshot.png" alt="mandlebrot-screenshot" />
+</p>
 
 ## Dependencies
 
