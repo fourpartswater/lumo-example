@@ -1,6 +1,6 @@
 # Lumo Example
 
-<img width="600" src="https://rawgit.com/unchartedsoftware/lumo-example/master/screenshot.png" alt="mandlebrot-screenshot" />
+<img width="600" src="/screenshot.png" alt="mandlebrot-screenshot" />
 
 ## Dependencies
 
