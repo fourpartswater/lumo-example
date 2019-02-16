@@ -1,5 +1,7 @@
 # Lumo Example
 
+<img width="600" src="https://rawgit.com/unchartedsoftware/lumo-example/master/screenshot.png" alt="mandlebrot-screenshot" />
+
 ## Dependencies
 
 - [Go](https://golang.org/) programming language binaries with the `GOPATH` environment variable specified.
